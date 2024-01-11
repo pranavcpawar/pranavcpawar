@@ -1,8 +1,7 @@
 ### Hi there 👋
-<img src="https://github-readme-stats-pranavcpawar.vercel.app//api/top-langs?username=pranavcpawar&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="pranavcpawar's Top Languages" align="right" width="300">
+<img src="https://github-readme-stats-pranavcpawar.vercel.app/api/top-langs?username=pranavcpawar&layout=compact&card_width=275&theme=github_dark&langs_count=10&hide=c,meson,makefile,m4&exclude_repo=github-readme-stats,BitJanitor,github-activity-readme,fancy-git,challengeBot" alt="pranavcpawar's Top Languages" align="right" width="300">
 
-
-![pranavcpawar's GitHub Stats][github-stats-img]
+![My stats](https://github-readme-stats-pranavcpawar.vercel.app/api?username=pranavcpawar&show_icons=true&theme=radical)
 
 <!--
 **pranavcpawar/pranavcpawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
