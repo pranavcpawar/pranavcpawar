@@ -1,6 +1,10 @@
-<a href="https://github.com/pranavcpawar/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats-pranavcpawars-projects.vercel.app/api?username=pranavcpawar&custom_title=pranavcpawar's%20github%20stats&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=050505&border_color=404040&width=180&title_color=1b85b8&border_radius=4&icon_color=1b85b8&theme=dark#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/pranavcpawar/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats-pranavcpawars-projects.vercel.app/api/top-langs?username=pranavcpawar&layout=compact&langs_count=8&card_width=240&theme=dark&bg_color=050505&border_color=404040&title_color=1b85b8" />
-</a>
+<!-- ### Hey there! 👋
+ *I'm Pranav Pawar - crafting digital experiences one line at a time.*
+ ✨ -->
+
+<p align="start">
+  <!-- Typing SVG with unique messages -->
+  <a href="https://github.com/pranavcpawar">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&duration=1000&pause=800&color=58A6FF&random=false&width=500&lines=Hey+there!+I'm+Pranav+%F0%9F%91%8B;Building+digital+dreams+with+code+%F0%9F%9A%80;Turning+coffee+into+applications+%E2%98%95;Welcome+to+my+coding+universe+%F0%9F%8C%8C;Let's+create+something+amazing+together!+%E2%9C%A8" alt="Typing SVG" />
+  </a>
+</p>
